@@ -18,5 +18,5 @@ The Chicago_redlining files have the maximum and minimum average variables of in
 
 # Scripts
 WRF_to_tabular.R converts the WRF simulations into tabular data to be injested into Google Earth Engine.   
-Rasterize.js converts the tabular WRF results into a raster with separate bands for each variable.  
-Summarize.js processeses satellite observations and summarizes the satellite and WRF outputs into regions of interest.  
+Rasterize.js converts the tabular WRF results into a raster with separate bands for each variable on Google Earth Engine.     
+Summarize.js processeses satellite observations and summarizes the satellite and WRF outputs into regions of interest on Google Earth Engine.     
