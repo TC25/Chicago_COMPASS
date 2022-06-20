@@ -1,2 +1,2 @@
 # Chicago_COMPASS
-Scripts and data generated for community areas of Chicago.
+Community area summaries for Chicago and related scripts.
