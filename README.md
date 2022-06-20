@@ -1,5 +1,5 @@
 # Chicago_COMPASS
-Community area summaries for Chicago and related scripts. Specifics below"
+Community area and redlining summaries for Chicago and related scripts. Specifics below:
 
 # Data
 Each CSV file (other than the Chicago_redlining files) provides summaries for 77 community areas in Chicago from WRF simulations, satellites, and socioeconomic surveys.  
