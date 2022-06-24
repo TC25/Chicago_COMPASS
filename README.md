@@ -2,7 +2,7 @@
 Community area and redlining summaries for Chicago and related scripts. Specifics below:
 
 # Data
-Each CSV file (other than the Chicago_redlining files) provides summaries for 77 community areas in Chicago from WRF simulations, satellites, and socioeconomic surveys. The WRF code is open source and can be found at https://github.com/wrf-model/WRF  
+Each CSV file (other than the Chicago_redlining files) provides summaries for 77 community areas in Chicago from WRF simulations, satellites, and socioeconomic surveys. The WRF code is open source and can be found at: https://github.com/wrf-model/WRF  
 
 Chicago_control, Chicago_no_urb, and Chicago_no_lake have the maximum and minimum average variables of interest for the control, no urban, and no lake simulations.   
 
