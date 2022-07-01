@@ -1,5 +1,5 @@
 # Chicago_COMPASS
-Community area and redlining summaries for Chicago and related scripts. Specifics below:
+Community area summaries for Chicago and related scripts. Specifics below:
 
 # Data
 Each CSV file provides summaries for 77 community areas in Chicago from WRF simulations, satellites, and socioeconomic surveys. The WRF code is open source and can be found at: https://github.com/wrf-model/WRF  
