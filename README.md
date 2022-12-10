@@ -8,7 +8,11 @@ The spatial polygons for the community areas and the socioeconomic data were acc
 
 The WRF code is open source and can be found at: https://github.com/wrf-model/WRF  
 
-Chicago_control, Chicago_no_urb, and Chicago_no_lake have the maximum and minimum average variables of interest for the control, no urban, and no lake simulations.   
+Chicago_control, Chicago_no_urb, and Chicago_no_lake have the maximum and minimum average variables of interest for the control, no urban, and no lake simulations. These are for the BEM/BEP runs with the YSU boundary layer scheme and are used for the main results of the paper. 
+
+The WRF_BEM_MYJ files are for the BEM/BEP control runs with the MYJ boundary layer scheme. 
+The WRF_Noah files are the control runs using just the Unified Noah land surface model (no urban canopy).
+The WRF_nested file is for a control run using 3-way nested domains, with the inner domain over Chicago at 1.333 km using BEM/BEP and the YSU boundary layer scheme.
 
 Chicago_perc_control, Chicago_perc_no_urb, and Chicago_perc_no_lake have the 95th and 98th percentiles of hourly variables of interest for the control, no urban, and no lake simulations.   
 
